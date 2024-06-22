@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrea Piergentili's personal page'"
+title                    : "Andrea Piergentili's personal page"
 title_separator          : "-"
 name                     : &name "Andrea Piergentili"
 description              : &description "PhD student"
@@ -31,7 +31,7 @@ author:
   email            : "apiergentili@fbk.eu"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Piergentili%2C+A"
   googlescholar    : "https://scholar.google.com/citations?user=SceVs8kAAAAJ&hl=it"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
@@ -58,7 +58,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
+  mastodon         : "https://sigmoid.social/@apierg"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
