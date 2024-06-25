@@ -11,9 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., University of Trento + Fondazione Bruno Kessler, 2026 (expected)
+  * Program: Computer Science and Information Engineering
+  * Topic: Gender-Inclusive Machine Translation
+  * Advisors: Matteo Negri, (FBK) Luisa Bentivogli (FBK)
+* M.D., University of L'Aquila, 2022
+  * Program: Languages and cultures for international communication and cooperation
+  * M.D. thesis: Gender-Inclusive Language: From Theoretical Approaches to Building a Test Set for Machine Translation
+  * Supervisors: Maria Giovanna Fusco (UnivAQ), Luisa Bentivogli (FBK)
+  * Final grade: 110/110 cum laude.
+  * Best 2022 UnivAQ thesis on `Equal opportunities and combating discrimination'
+* B.D., University of L'Aquila, 2018
+  * Program: Cultural and linguistic mediation
+  * B.D. thesis: Patterns in Phonetic Adaptation of English words to Italian in a Movie Trailer Corpus
+  * Supervisors: Maria Giovanna Fusco (UnivAQ)
+  * Final grade: 110/110 cum laude.
+* 
 
 Work experience
 ======
