@@ -2,7 +2,7 @@
 title: "Gender Neutralization for an Inclusive Machine Translation: from Theoretical Foundations to Open Challenges"
 collection: publications
 permalink: /publication/2023-1-gender-neutralization
-excerpt: 'Abstract'
+excerpt: 'Gender inclusivity in language technologies has become a prominent research topic. In this study, we explore gender-neutral translation (GNT) as a form of gender inclusivity and a goal to be achieved by machine translation (MT) models, which have been found to perpetuate gender bias and discrimination. Specifically, we focus on translation from English into Italian, a language pair representative of salient gender-related linguistic transfer problems. To define GNT, we review a selection of relevant institutional guidelines for gender-inclusive language, discuss its scenarios of use, and examine the technical challenges of performing GNT in MT, concluding with a discussion of potential solutions to encourage advancements toward greater inclusivity in MT.'
 date: 2023-06-01
 venue: 'Proceedings of the First Workshop on Gender-Inclusive Translation Technologies'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
