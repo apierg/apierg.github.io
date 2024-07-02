@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrea Piergentili's personal page"
+title                    : "Andrea Piergentili"
 title_separator          : "-"
 name                     : &name "Andrea Piergentili"
 description              : &description "PhD student"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Andrea"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "PhD student at the University of Trento and Fondazione Bruno Kessler"
   location         : "Trento, Italy"
   employer         : "UniTN, FBK"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "andreapiergentili"
   mastodon         : "https://sigmoid.social/@apierg"
   medium           : # URL
   pinterest        : # Username
