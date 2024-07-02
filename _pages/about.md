@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: default
 title: "About Me"
 author_profile: true
 redirect_from: 
@@ -11,4 +12,4 @@ gender-inclusive machine translation.
 My research focuses on promoting inclusivity through advanced translation technologies.
 
 ***Work in progress***
-======
+
