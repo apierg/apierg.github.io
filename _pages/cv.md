@@ -27,33 +27,40 @@ Education
   * B.D. thesis: Patterns in Phonetic Adaptation of English words to Italian in a Movie Trailer Corpus
   * Supervisors: Maria Giovanna Fusco (UnivAQ)
   * Final grade: 110/110 cum laude.
-* 
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2022 – Jun 2022: Internship @ Machine Translation unit, Fondazione Bruno Kessler
+  * Creation of a multilingual benchmark for the evaluation of gender neutral MT (see GeNTE)
+  * Duties includes:Language, gender, and ethics literature review; Surveying relevant guidelines for gender-inclusive language in English, Italian, and Spanish to inform corpus aims and rationale; Reviewing candidate corpora to identify an ideal base corpus; Identifying and categorizing gender-neutralization strategies; Designing the benchmark.
+  * Supervisor: Luisa Bentivogli
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* IT
+  * Python programming
+  * LATEX writing
+  * HPC environments
+  * AWS
+  * macOS and Linux OS
+* Research
+  * Literature review and monitoring
+  * Experimental design
+  * Dataset creation and curation
+  * Quantitative and qualitative analysis
+  * Scientific writing
+  * Research communication
+* Soft skills
+  * Teamwork
+  * Collaboration
+  * Decision making
+  * Time management
+* Languages
+  * Italian (native)
+  * English (C1)
+  * Spanish (B1)
 
 Publications
 ======
@@ -61,18 +68,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for: ACL Rolling Review, GITT workshop
