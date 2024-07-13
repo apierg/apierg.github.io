@@ -28,17 +28,25 @@ Education
 * Supervisors: Maria Giovanna Fusco (UnivAQ)
 * Final grade: 110/110 cum laude.
 
-
 Work experience
 ======
-## Jan 2022 – Jun 2022: Internship @ Machine Translation unit, Fondazione Bruno Kessler
+## Internship @ Machine Translation unit, Fondazione Bruno Kessler (Jan 2022 – Jun 2022)
 * Creation of a multilingual benchmark for the evaluation of gender neutral MT (see GeNTE)
-* Duties includes:Language, gender, and ethics literature review; Surveying relevant guidelines for gender-inclusive language in English, Italian, and Spanish to inform corpus aims and rationale; Reviewing candidate corpora to identify an ideal base corpus; Identifying and categorizing gender-neutralization strategies; Designing the benchmark.
+* Duties include: Language, gender, and ethics literature review; Surveying relevant guidelines for gender-inclusive language in English, Italian, and Spanish to inform corpus aims and rationale; Reviewing candidate corpora to identify an ideal base corpus; Identifying and categorizing gender-neutralization strategies; Designing the benchmark.
 * Supervisor: Luisa Bentivogli
 
-  
-Skills
+Publications
 ======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Service
+======
+* Reviewer for: ACL Rolling Review, GITT workshop
+
+# Skills
+
 ## IT
 * Python programming
 * LATEX writing
@@ -65,12 +73,5 @@ Skills
 * English (C1)
 * Spanish (B1)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service
-======
-* Reviewer for: ACL Rolling Review, GITT workshop
+
