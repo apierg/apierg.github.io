@@ -55,7 +55,7 @@ Skills
 * Soft skills
   * Teamwork
   * Collaboration
-  * Decision making
+  * Decision-making
   * Time management
 * Languages
   * Italian (native)
