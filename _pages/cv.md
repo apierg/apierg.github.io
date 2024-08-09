@@ -43,7 +43,7 @@ Publications
 
 Service
 ======
-* Reviewer for: ACL Rolling Review, GITT workshop
+* Reviewer for: ACL Rolling Review, GITT workshop, CLiC-it
 
 # Skills
 
