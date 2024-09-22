@@ -21,5 +21,5 @@ My research focuses on promoting inclusivity through advanced translation techno
   * Some photos [here](https://www.linkedin.com/feed/update/urn:li:activity:7213302941154217984/)!
 * **May 14**: The paper Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models is available on [arXiv](https://arxiv.org/abs/2405.08477).
   * Neo-GATE is available on [Hugging Face](https://huggingface.co/datasets/FBK-MT/Neo-GATE).
-  * The evaluation code for Neo-GATE is available at [fbk-NEUTR-evAL (GItHub)](https://github.com/hlt-mt/fbk-NEUTR-evAL/blob/main/solutions/Neo-GATE.md).
+  * The evaluation code for Neo-GATE is available at [fbk-NEUTR-evAL (GitHub)](https://github.com/hlt-mt/fbk-NEUTR-evAL/blob/main/solutions/Neo-GATE.md).
 * The paper *A Prompt Response to the Demand for Automatic Gender-Neutral Translation* is available in the [ACL Anthology](https://aclanthology.org/2024.eacl-short.23/).
