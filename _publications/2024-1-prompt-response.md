@@ -10,4 +10,3 @@ paperurl: 'https://aclanthology.org/2024.eacl-short.23.pdf'
 citation: 'Beatrice Savoldi, <b>Andrea Piergentili</b>, Dennis Fucci, Matteo Negri, and Luisa Bentivogli. 2024. A Prompt Response to the Demand for Automatic Gender-Neutral Translation. In <i>Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 2: Short Papers)</i>, pages 256–267, St. Julian’s, Malta. Association for Computational Linguistics.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

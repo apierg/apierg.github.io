@@ -9,5 +9,3 @@ venue: 'Proceedings of the 25th Annual Conference of the European Association fo
 paperurl: 'https://arxiv.org/pdf/2405.08477'
 citation: '<b>Andrea Piergentili</b>, Beatrice Savoldi, Matteo Negri, and Luisa Bentivogli. 2024. Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models. In <i>Proceedings of the 25th Annual Conference of the European Association for Machine Translation</i>, pages 298--312, Sheffield, United Kingdom. European Association for Machine Translation.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
