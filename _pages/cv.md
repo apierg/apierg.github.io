@@ -35,12 +35,6 @@ Work experience
 * Duties include: Language, gender, and ethics literature review; Surveying relevant guidelines for gender-inclusive language in English, Italian, and Spanish to inform corpus aims and rationale; Reviewing candidate corpora to identify an ideal base corpus; Identifying and categorizing gender-neutralization strategies; Designing the benchmark.
 * Supervisor: Luisa Bentivogli
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service
 ======
 * Reviewer for: ACL Rolling Review, GITT workshop, CLiC-it
