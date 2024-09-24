@@ -6,6 +6,6 @@ excerpt: 'Machine translation (MT) models are known to suffer from gender bias, 
 date: 2024-06-01
 venue: 'Proceedings of the 25th Annual Conference of the European Association for Machine Translation'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/pdf/2405.08477'
+paperurl: 'https://aclanthology.org/2024.eamt-1.25/'
 citation: '<b>Andrea Piergentili</b>, Beatrice Savoldi, Matteo Negri, and Luisa Bentivogli. 2024. Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models. In <i>Proceedings of the 25th Annual Conference of the European Association for Machine Translation</i>, pages 298--312, Sheffield, United Kingdom. European Association for Machine Translation.'
 ---
