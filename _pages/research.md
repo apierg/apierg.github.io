@@ -11,7 +11,8 @@ For a complete list of my publications check [my Google Scholar profile](https:/
 
 * [Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models (2024)](https://aclanthology.org/2024.eamt-1.25/)\
     **Andrea Piergentili**, Beatrice Savoldi, Matteo Negri, Luisa Bentivogli\
-    We look at gender-inclusive neomorphemes, neologistic elements that avoid binary gender markings as an approach towards fairer MT. In this direction, we explore prompting techniques with LLMs to translate from English into Italian using neomorphemes. So far, this area has been under-explored due to its novelty and the lack of publicly available evaluation resources. We fill this gap by releasing Neo-GATE, a resource designed to evaluate gender-inclusive en-it translation with neomorphemes. With Neo-GATE, we assess four LLMs of different families and sizes and different prompt formats.
+    We look at gender-inclusive neomorphemes, neologistic elements that avoid binary gender markings as an approach towards fairer MT. In this direction, we explore prompting techniques with LLMs to translate from English into Italian using neomorphemes. So far, this area has been under-explored due to its novelty and the lack of publicly available evaluation resources. We fill this gap by releasing Neo-GATE, a resource designed to evaluate gender-inclusive en-it translation with neomorphemes. With Neo-GATE, we assess four LLMs of different families and sizes and different prompt formats.\
+    [EAMT 2024 poster](https://drive.google.com/file/d/1aXmjviVJgYAkeugv77R1iiLy5lsnDxaI/view?usp=sharing)
 
 * [A _Prompt_ Response to the Demand for Automatic Gender-Neutral Translation (2024)](https://aclanthology.org/2024.eacl-short.23/)\
     Beatrice Savoldi, **Andrea Piergentili**, Dennis Fucci, Matteo Negri, Luisa Bentivogli\
