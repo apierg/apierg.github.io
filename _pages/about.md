@@ -14,7 +14,7 @@ My research focuses on promoting inclusivity through advanced translation techno
 # News
 
 * **October 3**: 
-  * 👀 I will present research communication about the challenges of gender-inclusive machine translation at [LaGendA](https://www.unive.it/web/en/6465/home), in Venice, Italy
+  * 🕺🏻 I presented a research communication about the challenges of gender-inclusive MT at [LaGendA](https://www.unive.it/web/en/6465/home), in Venice, Italy. Check out [the slides](https://drive.google.com/file/d/1GbkF72BPl-JNf6B9qLdVxZbo6069LRke/view?usp=share_link)!
 * **September 19**
   * ⚙️ I presented a demo for gender-neutral translation with LLMs at the FBK DI Center Demo Day 2024. A few photos [here](https://x.com/fbk_mt/status/1836677227464851674) and [here](https://x.com/fbk_mt/status/1837074648334270832) – also, check out [the poster](https://drive.google.com/file/d/1OJD1nLL0XfE8qwlsOu9HWJNE4ZXZH4V1/view?usp=sharing)
 * **June 24–27** 
