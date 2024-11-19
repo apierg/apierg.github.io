@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=SceVs8kAAAAJ&hl=it"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2117-1338"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Andrea-Piergentili/153378269"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "https://bsky.app/profile/apierg.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
