@@ -6,5 +6,5 @@ excerpt: "Gender-neutral language reflects societal and linguistic shifts toward
 date: 2025-01-20
 venue: 'Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)'
 paperurl: 'https://arxiv.org/abs/2501.09409'
-citation: 'Beatrice Savoldi, Eleonora Cupin, Manjinder Thind, Anne Lauscher, <b>Andrea Piergentili</b>, Matteo Negri, Luisa Bentivogli. 2024. mGeNTE: A Multilingual Resource for Gender-Neutral Language and Translation. Pre-print.'
+citation: 'Beatrice Savoldi, Eleonora Cupin, Manjinder Thind, Anne Lauscher, <b>Andrea Piergentili</b>, Matteo Negri, Luisa Bentivogli. 2025. mGeNTE: A Multilingual Resource for Gender-Neutral Language and Translation. Pre-print.'
 ---
