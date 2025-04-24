@@ -8,6 +8,10 @@ author_profile: true
 My research focuses on **gender-inclusive machine translation**, and the papers below are my main contributions to this topic.
 For a complete list of my publications check [my Google Scholar profile](https://scholar.google.com/citations?user=SceVs8kAAAAJ&hl=it).
 
+* [An LLM-as-a-judge Approach for Scalable Gender-Neutral Translation Evaluation](https://arxiv.org/abs/2504.11934) – GITT 2025\
+    🖋️**Andrea Piergentili**, Beatrice Savoldi, Matteo Negri, Luisa Bentivogli\
+    📄 In this work we tackled the challenge of automatic evaluation of gender-neutral text and translation. We experimented with the _LLM-as-a-Judge_ approach, where an LLM is prompted to provide task-specific evaluations. We perform extensive experiments on multiple languages with five models, both open and proprietary, and show that LLMs can serve as evaluators of GNT. Moreover, we find that prompting for phrase-level annotations before sentence-level assessments consistently improves the accuracy of all models, providing a better and more scalable alternative to current solutions. \
+
 * [Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models](https://aclanthology.org/2024.eamt-1.25/) – EAMT 2024\
     🖋️**Andrea Piergentili**, Beatrice Savoldi, Matteo Negri, Luisa Bentivogli\
     📄 With this work we look at **gender-inclusive neomorphemes**, neologistic elements that avoid binary gender markings as an approach towards fairer MT. In this direction, we explore prompting techniques with LLMs to translate from English into Italian using neomorphemes. So far, this area has been under-explored due to its novelty and the lack of publicly available evaluation resources. We fill this gap by releasing [Neo-GATE](https://huggingface.co/datasets/FBK-MT/Neo-GATE), a resource designed to evaluate gender-inclusive en-it translation with neomorphemes. With Neo-GATE, we assess four LLMs of different families and sizes and different prompt formats.\
