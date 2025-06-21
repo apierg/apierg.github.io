@@ -30,6 +30,10 @@ Education
 
 Work experience
 ======
+## Applied Scientist Intern @ Amazon Europe, Berlin (Jun 2025 – Oct 2025)
+* Team: EU International Technology team (MLE)
+* Manager: Stephan Walter
+
 ## Internship @ Machine Translation unit, Fondazione Bruno Kessler (Jan 2022 – Jun 2022)
 * Creation of a multilingual benchmark for the evaluation of gender-neutral MT (see GeNTE)
 * Duties include: Language, gender, and ethics literature review; Surveying relevant guidelines for gender-inclusive language in English, Italian, and Spanish to inform corpus aims and rationale; Reviewing candidate corpora to identify an ideal base corpus; Identifying and categorizing gender-neutralization strategies; Designing the benchmark.

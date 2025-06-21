@@ -13,6 +13,8 @@ My research focuses on promoting inclusivity through advanced translation techno
 
 # News
 ## 2025
+* **June 16**
+  * I started an internship as an Applied Scientist at Amazon, in Berlin. If you're there too, let's have a beer together! 🍺🇩🇪
 * **April 16**
   * 🌟 The paper _An LLM-as-a-judge Approach for Scalable Gender-Neutral Translation Evaluation_ was accepted at [GITT 2025](https://sites.google.com/tilburguniversity.edu/gitt2025/)! 🙌
   * 📄 Check it out on [arXiv](https://arxiv.org/abs/2504.11934)
