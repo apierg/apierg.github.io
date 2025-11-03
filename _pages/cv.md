@@ -10,7 +10,8 @@ redirect_from:
 
 # Work experience
 ## Applied Scientist Intern @ Amazon Europe, Berlin (Jun 2025 – Oct 2025)
-* Team: EU International Technology team
+* Organization: EU INTech
+* Team: Localization (Saar)
 * Project: Design and development of automatic evaluation systems for Amazon’s in-image translation system
 * Research tasks: collecting relevant literature, designing reference-based and reference-free automatic, evaluation methods, exploring vision language model based solutions, synthetic data design and generation, experimental design and execution
 * Development tasks: developing and validating automatic reference-based and reference-free solutions
