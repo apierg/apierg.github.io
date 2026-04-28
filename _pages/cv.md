@@ -22,10 +22,11 @@ redirect_from:
 * Supervisor: Luisa Bentivogli
 
 # Education
-## PhD, University of Trento + Fondazione Bruno Kessler, 2026 (expected)
+## PhD, University of Trento & Fondazione Bruno Kessler, 2026
 * Program: Computer Science and Information Engineering
 * Topic: Gender-Inclusive Machine Translation
 * Advisors: Matteo Negri, (FBK) Luisa Bentivogli (FBK)
+* Defense Committee: Eva Vanmassenhove, Jasmijn Bastings, Luis Alberto Barrón-Cedeño
 
 ## M.D., University of L'Aquila, 2022
 * Program: Languages and cultures for international communication and cooperation
