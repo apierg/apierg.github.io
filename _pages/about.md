@@ -11,9 +11,18 @@ NLP researcher working on evaluation, fairness, and trustworthy behavior in larg
 PhD from the University of Trento and Fondazione Bruno Kessler.
 
 # News
+
+## 2026
+* **April 20**
+* 🎓 I defended my PhD thesis _Towards Gender-Inclusive Machine Translation_! 🥳
+  * Committee: Eva Vanmassenhove, Jasmijn Bastings, Luis Alberto Barrón-Cedeño
+  * A few photos [here](https://www.linkedin.com/feed/update/urn:li:activity:7452016004991430656/)!
+
 ## 2025
 * **September 25**
   * 🕺 I presented the paper [Gender-Neutral Rewriting in Italian: Models, Approaches, and Trade-offs](https://arxiv.org/pdf/2509.13480) at [CLiC-it 2025](https://clic2025.unica.it/) in Cagliari, Italy.
+* **August 20**
+  * 🌟 The paper _Mind the Inclusivity Gap: Multilingual Gender-Neutral Translation Evaluation with mGeNTE_ was accepted at EMNLP 2025! 🎉
 * **June 16**
   * I started an internship as an Applied Scientist at Amazon, in Berlin. 🍺🇩🇪
 * **April 16**
